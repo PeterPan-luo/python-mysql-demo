@@ -1,11 +1,9 @@
-########################################################################################################
+#!/usr/bin/python
+# coding:utf8
 # File Name: transfer_money.py
 # Author: luohong
 # mail:luohong213@163.com
 # Create Time: 2016年03月26日 星期六 18时37分48秒
-#==============================================================================================
-#!/usr/bin/python
-# coding:utf8
 import sys
 import MySQLdb
 
